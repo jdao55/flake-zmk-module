@@ -18,17 +18,17 @@
             layers = <2>;
         };
 
-        enter_gaming {
-            bindings = <&sl 3>;
-            key-positions = <26 15 28>;
-            layers = <2>;
-        };
+//     enter_gaming {
+//         bindings = <&sl 3>;
+//         key-positions = <26 15 28>;
+//         layers = <2>;
+//     };
 
-        leave_gaming {
-            bindings = <&sl 0>;
-            key-positions = <31 20 33>;
-            layers = <4>;
-        };
+//     leave_gaming {
+//         bindings = <&sl 0>;
+//         key-positions = <31 20 33>;
+//         layers = <4>;
+//     };
 
         grave {
             bindings = <&kp GRAVE>;
